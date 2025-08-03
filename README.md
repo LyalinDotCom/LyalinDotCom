@@ -25,6 +25,9 @@ I'm all-in on AI coding tools - Claude Code, Cursor, Windsurf, Gemini CLI, Fireb
 
 Zero game dev experience → playable prototypes in days. Pretty impressive what AI pair programming can do.
 
+I also use AI to prototype product concepts:
+- [**AI-Centric Firebase Hosting Onboarding**](https://hostingdoc-preview.web.app/) - Experimental UI showing how AI could transform developer onboarding. Features Gemini CLI integration for AI-assisted deployment. Not official - just me exploring what's possible.
+
 ## 🛠️ Open Source Projects
 
 Building tools and examples that help developers (all created with AI assistance):
