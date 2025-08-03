@@ -19,7 +19,7 @@ Beyond tech: 6.5 years as NYPD Auxiliary Police in NYC, now doing C.E.R.T. with 
 I'm all-in on AI coding tools - Claude Code, Cursor, Windsurf, Gemini CLI, Firebase Studio. Here's what I've built with AI assistance:
 
 ### Game Experiments
-Zero game dev experience → playable prototypes in days:
+Zero game dev experience → playable prototypes in hours:
 - [**Defend Ship**](https://dronedefense.web.app/) - Tower defense with boats. Has weather effects!
 - [**Maze Explorer**](https://mazeexplorer-e2b48.web.app/) - Touch-friendly maze game
 - [**Space City**](https://spacecity-350f9.web.app/) - Build colonies in space
