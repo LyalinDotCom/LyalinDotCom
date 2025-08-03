@@ -31,6 +31,7 @@ As a PM, I build prototypes to explore concepts (not shipping these, but way bet
 - [**Voice-Powered Firebase Studio**](https://screen.studio/share/YmBw2pjG) (video) - Chrome extension that speaks code changes using AI summarization
 
 ### Open Source Samples
+- [**TextNarratorDemo**](https://github.com/LyalinDotCom/TextNarratorDemo) - Text-to-speech with 30 voices and 24 languages. Built entirely with Firebase Studio prompts - includes auto-translation!
 - [**learn-genkit-gemini**](https://github.com/LyalinDotCom/learn-genkit-gemini) - Using Gemini CLI to automate Genkit sample generation
 - [**TextToSpeechGenkitDemo**](https://github.com/LyalinDotCom/TextToSpeechGenkitDemo) - Multi-speaker AI voice synthesis with Genkit
 - [**Genkit-Ollama-VisionSample**](https://github.com/LyalinDotCom/Genkit-Ollama-VisionSample) - Local AI text extraction from images
