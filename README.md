@@ -5,8 +5,8 @@
 25+ years building stuff. Currently at Google as Group PM for Firebase - working on serverless products (Cloud Functions, Hosting, Storage) and our new AI framework, Genkit. Basically helping developers ship apps faster.
 
 Led multiple products from zero to GA:
-- **Firebase App Hosting** - Simplified serverless hosting for Next.js/Angular apps. No more config hell - just GitHub integration and automatic scaling.
-- **Firebase Genkit** - Open-source AI framework for JS/TS developers. Making AI development as easy as Firebase made mobile backends.
+- **[Firebase App Hosting](https://firebase.blog/posts/2024/05/introducing-app-hosting/)** - Simplified serverless hosting for Next.js/Angular apps. No more config hell - just GitHub integration and automatic scaling.
+- **[Firebase Genkit](https://firebase.blog/posts/2024/05/introducing-genkit/)** - Open-source AI framework for JS/TS developers. Making AI development as easy as Firebase made mobile backends.
 
 Before Google: 14 years at Microsoft. Started as a dev consultant, ended up as Principal PM. Built Hot Reload for .NET/C++ (you're welcome!), shipped .NET MAUI 1.0, made XAML tools suck less, and helped rebrand VSTS to Azure DevOps. Also keynoted at .NET Conf and ran Build.
 
