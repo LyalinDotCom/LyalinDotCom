@@ -38,8 +38,6 @@ As a PM, I build prototypes to explore concepts (not shipping these, but way bet
 ### Developer Tools
 - [**ConfigureMacKeys**](https://github.com/LyalinDotCom/ConfigureMacKeys) - "Just in time" CLI for managing Mac env vars with auto-backups
 
-This is the approach I advocate: use AI to build real things, not just write about them.
-
 ## 📫 Let's Connect
 
 - **LinkedIn**: [dmitrylyalin](https://www.linkedin.com/in/dmitrylyalin/)
