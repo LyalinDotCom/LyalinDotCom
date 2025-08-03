@@ -16,7 +16,7 @@ Beyond tech: 6.5 years as NYPD Auxiliary Police in NYC, now doing C.E.R.T. with 
 
 ## 🤖 AI Coding Adventures
 
-I'm all-in on AI coding tools - Claude Code, Cursor, Windsurf, Gemini CLI, Firebase Studio. Here's what I've built with AI assistance:
+I'm all-in on AI coding tools - Claude Code, Cursor, Windsurf, Gemini CLI, Firebase Studio, Jules. Here's what I've built with AI assistance:
 
 ### Game Experiments
 Zero game dev experience → playable prototypes in hours:
