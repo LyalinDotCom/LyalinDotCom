@@ -31,6 +31,7 @@ As a PM, I build prototypes to explore concepts (not shipping these, but way bet
 - [**Voice-Powered Firebase Studio**](https://screen.studio/share/YmBw2pjG) (video) - Chrome extension that speaks code changes using AI summarization
 
 ### Open Source Samples
+- [**FishTankSimulator**](https://github.com/LyalinDotCom/FishTankSimulator) - 3D virtual aquarium with AI-generated fish. Upload photos to create custom fish that swim around. Three.js + Genkit magic!
 - [**TextNarratorDemo**](https://github.com/LyalinDotCom/TextNarratorDemo) - Text-to-speech with 30 voices and 24 languages. Built entirely with Firebase Studio prompts - includes auto-translation!
 - [**learn-genkit-gemini**](https://github.com/LyalinDotCom/learn-genkit-gemini) - Using Gemini CLI to automate Genkit sample generation
 - [**TextToSpeechGenkitDemo**](https://github.com/LyalinDotCom/TextToSpeechGenkitDemo) - Multi-speaker AI voice synthesis with Genkit
