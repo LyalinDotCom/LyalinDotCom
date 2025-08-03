@@ -21,6 +21,16 @@ I'm all-in on AI coding tools - Claude Code, Cursor, Windsurf, Gemini CLI, Fireb
 
 Zero game dev experience → playable prototypes in days. Pretty impressive what AI pair programming can do.
 
+## 🛠️ Open Source Projects
+
+Building tools and examples that help developers:
+
+- [**learn-genkit-gemini**](https://github.com/LyalinDotCom/learn-genkit-gemini) - Comprehensive examples for Google's Genkit with Gemini AI. Text, speech, images, video - all the AI generation patterns in one place. Planning to contribute automated sample generation back to Genkit.
+
+- [**Genkit-Ollama-VisionSample**](https://github.com/LyalinDotCom/Genkit-Ollama-VisionSample) - Text extraction from images using local open-source models. Built this for myself ("just in time software") when I needed privacy-focused OCR. Drag-drop, paste, or URL - it just works.
+
+- [**ConfigureMacKeys**](https://github.com/LyalinDotCom/ConfigureMacKeys) - CLI tool for managing Mac environment variables safely. Got tired of manually editing .zshrc, so I built this. Auto-backups before changes because we've all been there.
+
 ## 📫 Let's Connect
 
 - **LinkedIn**: [dmitrylyalin](https://www.linkedin.com/in/dmitrylyalin/)
