@@ -19,7 +19,7 @@ I'm all-in on AI coding tools - Claude Code, Cursor, Windsurf, Gemini CLI, Fireb
 - [**Space City**](https://spacecity-350f9.web.app/) - Build colonies in space
 - [**Solar Explorer**](https://solarexplorer.web.app/) - Solar system sim with debug tools
 
-Zero game dev experience → working games in days. That's the power of AI pair programming.
+Zero game dev experience → playable prototypes in days. Pretty impressive what AI pair programming can do.
 
 ## 📫 Let's Connect
 
