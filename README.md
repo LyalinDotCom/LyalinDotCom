@@ -16,36 +16,29 @@ Beyond tech: 6.5 years as NYPD Auxiliary Police in NYC, now doing C.E.R.T. with 
 
 ## 🤖 AI Coding Adventures
 
-I'm all-in on AI coding tools - Claude Code, Cursor, Windsurf, Gemini CLI, Firebase Studio. Want to see what they can really do? I built games (never done that before):
+I'm all-in on AI coding tools - Claude Code, Cursor, Windsurf, Gemini CLI, Firebase Studio. Here's what I've built with AI assistance:
 
+### Game Experiments
+Zero game dev experience → playable prototypes in days:
 - [**Defend Ship**](https://dronedefense.web.app/) - Tower defense with boats. Has weather effects!
 - [**Maze Explorer**](https://mazeexplorer-e2b48.web.app/) - Touch-friendly maze game
 - [**Space City**](https://spacecity-350f9.web.app/) - Build colonies in space
 - [**Solar Explorer**](https://solarexplorer.web.app/) - Solar system sim with debug tools
 
-Zero game dev experience → playable prototypes in days. Pretty impressive what AI pair programming can do.
+### Product Prototypes
+As a PM, I build prototypes to explore concepts (not shipping these, but way better than just docs):
+- [**Reimagined Firebase Hosting Docs**](https://hostingdoc-preview.web.app/) - Experimental docs site with AI-assisted deployment onboarding
+- [**Voice-Powered Firebase Studio**](https://screen.studio/share/YmBw2pjG) (video) - Chrome extension that speaks code changes using AI summarization
 
-I also use AI to prototype product concepts (these won't ship directly, but help explore ideas alongside traditional docs/UX):
-- [**Reimagined Firebase Hosting Docs**](https://hostingdoc-preview.web.app/) - Built an experimental docs site with a completely different onboarding approach. Features Gemini CLI integration for AI-assisted deployment. Shows how documentation could evolve.
-- [**Voice-Powered Firebase Studio Feedback**](https://screen.studio/share/YmBw2pjG) (video) - Built a Chrome extension + Node.js server to prototype voice feedback for code changes. The AI summarizes changes instead of reading walls of text - way more tangible than any spec document.
-
-This is the approach I advocate for in my team - build prototypes early to explore concepts, not just write about them.
-
-## 🛠️ Open Source
-
-Building tools and examples that help developers (all created with AI assistance):
-
-### Samples & Demos
-
-- [**learn-genkit-gemini**](https://github.com/LyalinDotCom/learn-genkit-gemini) - Experiments using Gemini CLI to automate sample generation for Google's Genkit framework. Planning to contribute this automation back to the Genkit project.
-
-- [**TextToSpeechGenkitDemo**](https://github.com/LyalinDotCom/TextToSpeechGenkitDemo) - Text-to-speech demo using Genkit and Gemini models. Single and multi-speaker audio generation that actually sounds good. Next.js + AI voice synthesis made simple.
-
-- [**Genkit-Ollama-VisionSample**](https://github.com/LyalinDotCom/Genkit-Ollama-VisionSample) - Text extraction from images using local open-source models. Filling a documentation gap and proving this pattern works for future docs. Drag-drop, paste, or URL - it just works.
+### Open Source Samples
+- [**learn-genkit-gemini**](https://github.com/LyalinDotCom/learn-genkit-gemini) - Using Gemini CLI to automate Genkit sample generation
+- [**TextToSpeechGenkitDemo**](https://github.com/LyalinDotCom/TextToSpeechGenkitDemo) - Multi-speaker AI voice synthesis with Genkit
+- [**Genkit-Ollama-VisionSample**](https://github.com/LyalinDotCom/Genkit-Ollama-VisionSample) - Local AI text extraction from images
 
 ### Developer Tools
+- [**ConfigureMacKeys**](https://github.com/LyalinDotCom/ConfigureMacKeys) - "Just in time" CLI for managing Mac env vars with auto-backups
 
-- [**ConfigureMacKeys**](https://github.com/LyalinDotCom/ConfigureMacKeys) - CLI tool for managing Mac environment variables safely. Built this for myself ("just in time software") - got tired of googling how to set env vars every time. Auto-backups before changes because we've all been there.
+This is the approach I advocate: use AI to build real things, not just write about them.
 
 ## 📫 Let's Connect
 
