@@ -27,9 +27,11 @@ Zero game dev experience → playable prototypes in days. Pretty impressive what
 
 ## 🛠️ Open Source Projects
 
-Building tools and examples that help developers:
+Building tools and examples that help developers (all created with AI assistance):
 
 - [**learn-genkit-gemini**](https://github.com/LyalinDotCom/learn-genkit-gemini) - Experiments using Gemini CLI to automate sample generation for Google's Genkit framework. Planning to contribute this automation back to the Genkit project.
+
+- [**TextToSpeechGenkitDemo**](https://github.com/LyalinDotCom/TextToSpeechGenkitDemo) - Text-to-speech demo using Genkit and Gemini models. Single and multi-speaker audio generation that actually sounds good. Next.js + AI voice synthesis made simple.
 
 - [**Genkit-Ollama-VisionSample**](https://github.com/LyalinDotCom/Genkit-Ollama-VisionSample) - Text extraction from images using local open-source models. Filling a documentation gap and proving this pattern works for future docs. Drag-drop, paste, or URL - it just works.
 
