@@ -31,15 +31,19 @@ I also use AI to prototype product concepts (these won't ship directly, but help
 
 This is the approach I advocate for in my team - build prototypes early to explore concepts, not just write about them.
 
-## 🛠️ Open Source Projects
+## 🛠️ Open Source
 
 Building tools and examples that help developers (all created with AI assistance):
+
+### Samples & Demos
 
 - [**learn-genkit-gemini**](https://github.com/LyalinDotCom/learn-genkit-gemini) - Experiments using Gemini CLI to automate sample generation for Google's Genkit framework. Planning to contribute this automation back to the Genkit project.
 
 - [**TextToSpeechGenkitDemo**](https://github.com/LyalinDotCom/TextToSpeechGenkitDemo) - Text-to-speech demo using Genkit and Gemini models. Single and multi-speaker audio generation that actually sounds good. Next.js + AI voice synthesis made simple.
 
 - [**Genkit-Ollama-VisionSample**](https://github.com/LyalinDotCom/Genkit-Ollama-VisionSample) - Text extraction from images using local open-source models. Filling a documentation gap and proving this pattern works for future docs. Drag-drop, paste, or URL - it just works.
+
+### Developer Tools
 
 - [**ConfigureMacKeys**](https://github.com/LyalinDotCom/ConfigureMacKeys) - CLI tool for managing Mac environment variables safely. Built this for myself ("just in time software") - got tired of googling how to set env vars every time. Auto-backups before changes because we've all been there.
 
