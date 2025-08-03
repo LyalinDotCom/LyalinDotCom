@@ -10,7 +10,7 @@ Led multiple products from zero to GA:
 
 Before Google: 14 years at Microsoft. Started as a dev consultant, ended up as Principal PM. Built Hot Reload for .NET/C++ (you're welcome!), shipped .NET MAUI 1.0, made XAML tools suck less, and helped rebrand VSTS to Azure DevOps. Also keynoted at .NET Conf and ran Build.
 
-Started my career bouncing between banks, startups, and everything in between. Real-world experience that taught me developers just want tools that work. 
+Started my career bouncing between banks, startups, and everything in between. Real-world experience taught me that technology can solve lots of problems, but the key is understanding your customers and what you're solving for them. Technology is fun, but building software is about the users. 
 
 Beyond tech: 6.5 years as NYPD Auxiliary Police in NYC, now doing C.E.R.T. with Florida fire department. Community matters.
 
