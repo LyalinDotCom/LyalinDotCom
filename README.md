@@ -25,9 +25,11 @@ I'm all-in on AI coding tools - Claude Code, Cursor, Windsurf, Gemini CLI, Fireb
 
 Zero game dev experience → playable prototypes in days. Pretty impressive what AI pair programming can do.
 
-I also use AI to prototype product concepts:
-- [**AI-Centric Firebase Hosting Onboarding**](https://hostingdoc-preview.web.app/) - Experimental UI showing how AI could transform developer onboarding. Features Gemini CLI integration for AI-assisted deployment. Not official - just me exploring what's possible.
-- [**Voice-Powered Firebase Studio Feedback**](https://screen.studio/share/YmBw2pjG) (video) - Built a Chrome extension + Node.js server to prototype voice feedback for code changes. Instead of just writing a PRD, I made it real. The AI summarizes changes instead of reading walls of text - way more tangible than any spec document.
+I also use AI to prototype product concepts (these won't ship directly, but help explore ideas alongside traditional docs/UX):
+- [**Reimagined Firebase Hosting Docs**](https://hostingdoc-preview.web.app/) - Built an experimental docs site with a completely different onboarding approach. Features Gemini CLI integration for AI-assisted deployment. Shows how documentation could evolve.
+- [**Voice-Powered Firebase Studio Feedback**](https://screen.studio/share/YmBw2pjG) (video) - Built a Chrome extension + Node.js server to prototype voice feedback for code changes. The AI summarizes changes instead of reading walls of text - way more tangible than any spec document.
+
+This is the approach I advocate for in my team - build prototypes early to explore concepts, not just write about them.
 
 ## 🛠️ Open Source Projects
 
