@@ -1,6 +1,6 @@
 # Dmitry Lyalin
 
-## 👋 Hey there!
+![Dmitry Lyalin Banner](twitter-banner.jpg)
 
 25+ years building stuff. Currently at Google as Group PM for Firebase - working on serverless products (Cloud Functions, Hosting, Storage, Extensions, App Hosting, Firebase ML) and our new AI framework, Genkit. Basically helping developers ship apps faster.
 
