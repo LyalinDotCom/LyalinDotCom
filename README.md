@@ -25,7 +25,7 @@ Zero game dev experience → playable prototypes in days. Pretty impressive what
 
 Building tools and examples that help developers:
 
-- [**learn-genkit-gemini**](https://github.com/LyalinDotCom/learn-genkit-gemini) - Comprehensive examples for Google's Genkit with Gemini AI. Text, speech, images, video - all the AI generation patterns in one place. Planning to contribute automated sample generation back to Genkit.
+- [**learn-genkit-gemini**](https://github.com/LyalinDotCom/learn-genkit-gemini) - Experiments using Gemini CLI to automate sample generation for Google's Genkit framework. Planning to contribute this automation back to the Genkit project.
 
 - [**Genkit-Ollama-VisionSample**](https://github.com/LyalinDotCom/Genkit-Ollama-VisionSample) - Text extraction from images using local open-source models. Built this for myself ("just in time software") when I needed privacy-focused OCR. Drag-drop, paste, or URL - it just works.
 
