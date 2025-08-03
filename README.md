@@ -27,6 +27,7 @@ Zero game dev experience → playable prototypes in days. Pretty impressive what
 
 I also use AI to prototype product concepts:
 - [**AI-Centric Firebase Hosting Onboarding**](https://hostingdoc-preview.web.app/) - Experimental UI showing how AI could transform developer onboarding. Features Gemini CLI integration for AI-assisted deployment. Not official - just me exploring what's possible.
+- [**Voice-Powered Firebase Studio Feedback**](https://screen.studio/share/YmBw2pjG) (video) - Built a Chrome extension + Node.js server to prototype voice feedback for code changes. Instead of just writing a PRD, I made it real. The AI summarizes changes instead of reading walls of text - way more tangible than any spec document.
 
 ## 🛠️ Open Source Projects
 
