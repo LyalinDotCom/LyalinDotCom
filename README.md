@@ -27,9 +27,9 @@ Building tools and examples that help developers:
 
 - [**learn-genkit-gemini**](https://github.com/LyalinDotCom/learn-genkit-gemini) - Experiments using Gemini CLI to automate sample generation for Google's Genkit framework. Planning to contribute this automation back to the Genkit project.
 
-- [**Genkit-Ollama-VisionSample**](https://github.com/LyalinDotCom/Genkit-Ollama-VisionSample) - Text extraction from images using local open-source models. Built this for myself ("just in time software") when I needed privacy-focused OCR. Drag-drop, paste, or URL - it just works.
+- [**Genkit-Ollama-VisionSample**](https://github.com/LyalinDotCom/Genkit-Ollama-VisionSample) - Text extraction from images using local open-source models. Filling a documentation gap and proving this pattern works for future docs. Drag-drop, paste, or URL - it just works.
 
-- [**ConfigureMacKeys**](https://github.com/LyalinDotCom/ConfigureMacKeys) - CLI tool for managing Mac environment variables safely. Got tired of manually editing .zshrc, so I built this. Auto-backups before changes because we've all been there.
+- [**ConfigureMacKeys**](https://github.com/LyalinDotCom/ConfigureMacKeys) - CLI tool for managing Mac environment variables safely. Built this for myself ("just in time software") - got tired of googling how to set env vars every time. Auto-backups before changes because we've all been there.
 
 ## 📫 Let's Connect
 
