@@ -36,6 +36,7 @@ As a PM, I build prototypes to explore concepts (not shipping these, but way bet
 - [**learn-genkit-gemini**](https://github.com/LyalinDotCom/learn-genkit-gemini) - Using Gemini CLI to automate Genkit sample generation
 - [**TextToSpeechGenkitDemo**](https://github.com/LyalinDotCom/TextToSpeechGenkitDemo) - Multi-speaker AI voice synthesis with Genkit
 - [**Genkit-Ollama-VisionSample**](https://github.com/LyalinDotCom/Genkit-Ollama-VisionSample) - Local AI text extraction from images
+- [**Dmitry-CLI**](https://github.com/LyalinDotCom/dmitry-cli) - a sample using Genkit framework + Ollama to talk to talk to local models
 
 ### Developer Tools
 - [**ConfigureMacKeys**](https://github.com/LyalinDotCom/ConfigureMacKeys) - "Just in time" CLI for managing Mac env vars with auto-backups
