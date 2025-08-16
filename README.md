@@ -40,7 +40,9 @@ As a PM, I build prototypes to explore concepts (not shipping these, but way bet
 
 ### Developer Tools
 - [**ConfigureMacKeys**](https://github.com/LyalinDotCom/ConfigureMacKeys) - "Just in time" CLI for managing Mac env vars with auto-backups
-- [**HelpMe**](https://github.com/LyalinDotCom/helpme-cli) - Single question, single answer command-line concept powered by Gemini or self-hosted models via Ollama
+
+- ### Projects with friends
+- [**HelpMe**](https://github.com/harris-boyce/helpme-cli) - Single question, single answer command-line concept powered by Gemini or self-hosted models via Ollama. I started this as a proof-of-concept and now building an MVP with my friend, [harris-boyce](https://github.com/harris-boyce)
 
 ## 📫 Let's Connect
 
