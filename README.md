@@ -37,7 +37,11 @@ As a PM, I build prototypes to explore concepts (not shipping these, but way bet
 - [**TextToSpeechGenkitDemo**](https://github.com/LyalinDotCom/TextToSpeechGenkitDemo) - Multi-speaker AI voice synthesis with Genkit
 - [**Genkit-Ollama-VisionSample**](https://github.com/LyalinDotCom/Genkit-Ollama-VisionSample) - Local AI text extraction from images
 - [**Dmitry-CLI**](https://github.com/LyalinDotCom/dmitry-cli) - a sample using Genkit framework + Ollama to talk to talk to local models
+
+### Explorations of concepts
 - [**Flash**](https://github.com/LyalinDotCom/Flash) - An exploration of what it would be like to have a CLI tool that can work both offline (with Gemma3n) and online (with Gemini models), serving as both a general agent and a set of specialized sub-agents. These sub-agents could handle tasks such as image generation, running terminal commands, and more.
+- [**ExplainCLI**](https://github.com/LyalinDotCom/ExplainCLI) - What if we had a CLI that could inspect your codebase deeply and walk you through any question? This is mostly a UX concept; it otherwise doesn't work great, but I continue to tinker with it.
+- [**TaskCLI**](https://github.com/LyalinDotCom/TaskCLI) - What if our Gemini CLIs were powered by a task queue? This concept roughly explores that idea, testing both the user experience and performance. So far, the basics are working, but most of the work remains.
 
 ### Developer Tools
 - [**ConfigureMacKeys**](https://github.com/LyalinDotCom/ConfigureMacKeys) - "Just in time" CLI for managing Mac env vars with auto-backups
