@@ -39,6 +39,8 @@ As a PM, I build prototypes to explore concepts (not shipping these, but way bet
 - [**TextToSpeechGenkitDemo**](https://github.com/LyalinDotCom/TextToSpeechGenkitDemo) - Multi-speaker AI voice synthesis with Genkit
 - [**Genkit-Ollama-VisionSample**](https://github.com/LyalinDotCom/Genkit-Ollama-VisionSample) - Local AI text extraction from images
 - [**Dmitry-CLI**](https://github.com/LyalinDotCom/dmitry-cli) - a sample using Genkit framework + Ollama to talk to talk to local models
+
+### Exploring MCP servers
 - [**Nano Banana MCP server**](https://github.com/LyalinDotCom/nano-banana-mcp) - my very first MCP server + NPM package. I've built this to make it very easy to generated images with AI assistive tooling, with extra tools for image editing and optimization.
 
 ### Explorations of concepts
