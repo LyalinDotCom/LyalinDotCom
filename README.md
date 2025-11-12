@@ -1,8 +1,12 @@
 # Dmitry Lyalin
 
-![Dmitry Lyalin Banner](twitter-banner.jpg)
+![Dmitry Lyalin Banner](Gemini_Generated_Image_r7r4ocr7r4ocr7r4.png)
 
-25+ years building stuff. Currently at Google as Group PM for Firebase - working on serverless products (Cloud Functions, Hosting, Storage, Extensions, App Hosting, Firebase ML) and our new AI framework, [Genkit](https://www.genkit.dev). Basically helping developers ship apps faster.
+25+ years building stuff. Currently at Google, working on [Gemini CLI](https://www.geminicli.com). 
+
+![Dmitry Lyalin Firebase](twitter-banner.jpg)
+
+Previously I was the product lead for Firebase serverless products (Cloud Functions, Hosting, Storage, Extensions, App Hosting, Firebase ML) and our new AI framework, [Genkit](https://www.genkit.dev). 
 
 Led multiple products from zero to GA:
 - **[Firebase App Hosting](https://firebase.blog/posts/2024/05/introducing-app-hosting/)** - Simplified serverless hosting for Next.js/Angular apps. No more config hell - just GitHub integration and automatic scaling.
